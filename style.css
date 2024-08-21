@@ -1,0 +1,86 @@
+/* Agregamos estilos al body*/
+body{
+    background-color: rgba(245, 191, 221, 0.795);
+}
+
+a{
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    color: rgba(248, 21, 199, 0.87);
+}
+
+p{
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 5px solid;
+}
+
+h1{
+    font-family: "Dancing Script", cursive;
+    font-size: 80px;
+}
+
+h2{
+    font-family: "Dancing Script", cursive;
+    font-size: 40px;
+    background-color: rgb(252, 47, 190);
+}
+
+h3{
+    font-family: "Dancing Script", cursive;
+    font-size: 40px;
+}
+
+h4{
+    font-family: "Dancing Script", cursive;
+    font-size: 40px;
+    background-color: rgb(252, 47, 190);
+}
+
+li{
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+}
+
+/* Agregar widht y height*/
+img{
+    width: 300px;
+    height: 250px;
+    border-radius: 100px;
+    border-style: dotted;
+    border-color: rgb(252, 47, 190);
+    padding: 50px;
+    margin: 50px;
+}
+
+/*Cambiar tamaños a mi imagen por class*/
+.future{
+    width: 400;
+    height: 400px;
+}
+.primeralbum{
+    width: 500px;
+    height: 500px;
+}
+.Barbie{
+    width: 800px;
+    height: 400px;
+}
+
+div{
+    background-color: rgb(252, 47, 190);
+}
+
+/*Atributo ID se manda a llamar con un #*/
+#Parrafo-1{
+    background-color: rgb(252, 47, 190);
+}
+
+#Parrafo-2{
+    background-color: rgb(252, 47, 190);
+}
+
+#Parrafo-3{
+    background-color: rgb(252, 47, 190);
+}
